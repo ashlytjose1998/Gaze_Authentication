@@ -1,0 +1,37 @@
+# Ignore system directories
+	../.android/
+        ../.gitconfig
+        ../.ipynb_checkpoints/
+        ../.ipython/
+        ../.jupyter/
+        ../.lesshst
+        ../.matplotlib/
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../Contacts/
+        ../Desktop/
+        ../Downloads/
+        ../Favorites/
+        auth_details.txt
+        ../IntelGraphicsProfiles/
+        ../JS/
+        ../Links/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{1dcf8825-a1d7-11ee-939c-c3d8a5657541}.TM.blf
+        ../NTUSER.DAT{1dcf8825-a1d7-11ee-939c-c3d8a5657541}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{1dcf8825-a1d7-11ee-939c-c3d8a5657541}.TMContainer00000000000000000002.regtrans-ms
+        ../OneDrive/
+        ../Pictures/
+        ../Poly.ipynb
+        ../PycharmProjects/
+        ../Sales.ipynb
+        ../Saved Games/
+        ../Searches/
+        ../Untitled.ipynb
+        ../Untitled1.ipynb
+        ../Videos/
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
